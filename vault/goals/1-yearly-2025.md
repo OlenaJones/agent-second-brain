@@ -1,76 +1,68 @@
 ---
 type: yearly
-period: 2025
-updated: YYYY-MM-DD
+period: 2026
+updated: 2025-01-XX
 ---
 
-# Goals 2025
+# Goals 2026
 
 ## Annual Theme
 
-<!-- One word or phrase that defines this year -->
-<!-- Example: "Foundation", "Growth", "Balance" -->
+Сбор системы
 
 ---
 
 ## Career & Business
 
-### Goal 1: [Your Goal]
-<!-- What do you want to achieve professionally? -->
+### Goal 1: Собрать и структурировать продуктовую линейку онлайн-групп
+
+К концу 2026 года у меня есть чётко оформленная и частично автоматизированная линейка онлайн-групп, где контент создаётся по системе и не требует постоянного ручного напряжения.
 
 **Success Metrics:**
-- [ ] Metric 1
-- [ ] Metric 2
+- [ ] Все запуски онлайн-групп спланированы минимум за **6 месяцев вперёд**
+- [ ] Не более **3–4 часов в неделю** на создание контента и минимум **50% контента** переиспользуемый / шаблонный / автоматизированный
 
 **Quarterly Milestones:**
-- Q1: [milestone]
-- Q2: [milestone]
-- Q3: [milestone]
-- Q4: [milestone]
+- **Q1:** есть чётко описанная продуктовая линейка онлайн-групп, включая лид-магниты
+- **Q2:** описаны процессы работы онлайн-групп и подобраны инструменты автоматизации (включая ИИ)
+- **Q3:** протестирована автоматизация онлайн-групп в реальном формате
+- **Q4:** есть чёткая методология запусков групп и настроенная автоматизация
 
 ---
 
 ## Health & Energy
 
-### Goal 1: [Your Goal]
-<!-- What health habits do you want to build? -->
+### Goal 1: Встроить регулярную силовую нагрузку
 
 **Success Metrics:**
-- [ ] Metric 1
-- [ ] Metric 2
+- [ ] **1–2 силовые тренировки в зале в неделю** на постоянной основе
+- [ ] Есть и соблюдается **структурированная программа силовых упражнений**
 
 ---
 
 ## Relationships
 
-### Goal 1: [Your Goal]
-<!-- How do you want to improve your relationships? -->
-
-**Success Metrics:**
-- [ ] Metric 1
-- [ ] Metric 2
+*Зона стабильности. Цели на 2026 год не ставятся.*
 
 ---
 
 ## Personal Growth
 
-### Goal 1: [Your Goal]
-<!-- What skills or habits do you want to develop? -->
+### Goal 1: Наладить планирование и контроль выполнения задач
 
 **Success Metrics:**
-- [ ] Metric 1
-- [ ] Metric 2
+- [ ] Все задачи и проекты ведутся в **Trello** как единой системе
+- [ ] Задачи регулярно доводятся до статуса **“done”** и отслеживаются по факту выполнения
 
 ---
 
 ## Financial
 
-### Goal 1: [Your Goal]
-<!-- What financial milestones do you want to reach? -->
+### Goal 1: Снизить финансовую тревожность через устойчивость дохода
 
 **Success Metrics:**
-- [ ] Metric 1
-- [ ] Metric 2
+- [ ] Доход демонстрирует **повторяемость**, а не случайность
+- [ ] Есть **регулярные запросы** на индивидуальное сопровождение
 
 ---
 
@@ -78,30 +70,5 @@ updated: YYYY-MM-DD
 
 | Area | Goal | Progress | Status |
 |------|------|----------|--------|
-| Career | [goal] | 0% | --- |
-| Health | [goal] | 0% | --- |
-| Relationships | [goal] | 0% | --- |
-| Growth | [goal] | 0% | --- |
-| Financial | [goal] | 0% | --- |
-
----
-
-## Monthly Review Log
-
-| Month | Key Wins | Adjustments |
-|-------|----------|-------------|
-| Jan | | |
-| Feb | | |
-| Mar | | |
-
----
-
-## Links
-
-- [[0-vision-3y]] - 3-year vision
-- [[2-monthly]] - Current month focus
-- [[3-weekly]] - This week's plan
-
----
-
-*Next Review: End of January*
+| Career | Продуктовая система онлайн-групп | 0% | --- |
+| Health | Регулярная силовая нагрузк

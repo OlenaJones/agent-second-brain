@@ -1,95 +1,41 @@
 ---
 type: monthly
-period: YYYY-MM
-updated: YYYY-MM-DD
+period: 2026-01
+updated: 2025-01-XX
 ---
 
-# Monthly Focus
+# Monthly Focus — January 2026
 
 ## Top 3 Priorities
 
-### Priority 1: [Your Top Priority]
-<!-- What MUST happen this month? -->
+### Priority 1: Создать лид-магнит и мини-продукты
 
-**Why it matters:** [connection to yearly goal]
-
-**Key Actions:**
-- [ ] Action 1
-- [ ] Action 2
-- [ ] Action 3
-
-**Definition of Done:** [clear outcome]
-
----
-
-### Priority 2: [Second Priority]
-
-**Why it matters:** [connection to yearly goal]
+**Why it matters:**  
+Это основа Q1 2026 и всей продуктовой системы: без готовых лид-магнитов и мини-продуктов невозможно выстроить линейку и тестировать автоматизацию.
 
 **Key Actions:**
-- [ ] Action 1
-- [ ] Action 2
-- [ ] Action 3
+- [ ] Определить формат и тему **1 лид-магнита** (чётко под целевую аудиторию)
+- [ ] Создать и завершить **2 мини-продукта** (малые, но готовые к использованию)
+- [ ] Довести все материалы до состояния «можно отдавать людям», а не черновиков
 
-**Definition of Done:** [clear outcome]
+**Definition of Done:**  
+Есть **1 готовый лид-магнит** и **2 готовых мини-продукта**, которые можно использовать в реальных связках.
 
 ---
 
-### Priority 3: [Third Priority]
+### Priority 2: Упаковать Telegram и настроить связки перелива аудитории
 
-**Why it matters:** [connection to yearly goal]
+**Why it matters:**  
+Созданные продукты должны сразу быть встроены в систему, а не существовать отдельно. Telegram — ключевая площадка для тестирования и сбора аудитории.
 
 **Key Actions:**
-- [ ] Action 1
-- [ ] Action 2
-- [ ] Action 3
+- [ ] Упаковать Telegram-канал (описание, позиционирование, базовая структура)
+- [ ] Встроить лид-магнит как точку входа в Telegram
+- [ ] Разместить и предложить мини-продукт в Telegram для тестирования системы
 
-**Definition of Done:** [clear outcome]
-
----
-
-## NOT Doing This Month
-
-<!-- What are you consciously saying NO to? -->
--
--
--
+**Definition of Done:**  
+Telegram-канал упакован, есть рабочая связка: **вход → Telegram → мини-продукт**.
 
 ---
 
-## Weekly Check-ins
-
-| Week | Progress | Blockers | Adjustments |
-|------|----------|----------|-------------|
-| W1 | | | |
-| W2 | | | |
-| W3 | | | |
-| W4 | | | |
-
----
-
-## End of Month Review
-
-**What worked:**
--
-
-**What didn't work:**
--
-
-**Key learnings:**
--
-
-**Next month focus:**
--
-
----
-
-## Links
-
-- [[0-vision-3y]] - 3-year vision
-- [[1-yearly-2025]] - Annual goals
-- [[3-weekly]] - This week's plan
-
----
-
-*Next Review: End of month*
+### Priority 3: Организовать месяц с учётом кома
